@@ -1,16 +1,15 @@
-### Hi there 👋
+### BOAS-VINDAS AO MEU PERFIL 🖤
 
-<!--
-**CALAUTI21/CALAUTI21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Kaue Calauti
+  
+- Estou estudando [Alura] (https://www.alura.com.br)
+- Estou me desenvolvendo nas aulas de JavaScrpt
+- Ultilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
-Here are some ideas to get you started:
+  ### você pode entrar em contato comigo 📫
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  kauehenrique2106@gmail.com
+  
+  insta: @calauti_21 
+
+![](https://media.tenor.com/opEBWw0uddoAAAAM/umm.gif)
